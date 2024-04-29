@@ -12,6 +12,14 @@ Rank : 2257 / 2800
 4. Binary Classification with Bank Churn Dataset
 Rank : 3030 / 3632
 
+5. Mohs Hardness
+Rank : 1188 / 1633
+
+6. Steel Plate Defect Prediction
+Rank : 1606 / 2201
+
+7. Regression with an Abalone Dataset
+Rank : 612 / 2440
 
 
 
