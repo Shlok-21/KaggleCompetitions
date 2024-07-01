@@ -21,5 +21,6 @@ Rank : 1606 / 2201</br>
 7. Regression with an Abalone Dataset</br>
 Rank : 612 / 2440</br>
 
-
+8. Classification with an Academic Success Dataset</br>
+Rank : 560 / 2739</br>
 
